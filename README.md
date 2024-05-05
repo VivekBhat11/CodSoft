@@ -1,2 +1,2 @@
 # CodSoft
-Web development Internship ( online )
+Web development Internship 
